@@ -6,4 +6,4 @@ echo "hello";
 <?
 
 ?>
-<?php
+<%00?php
